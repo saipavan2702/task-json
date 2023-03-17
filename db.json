@@ -1,0 +1,10 @@
+{
+  "tasks": [
+    {
+      "text": "Chaitanya birthday",
+      "day": "June 23",
+      "reminder": true,
+      "id": 1
+    }
+  ]
+}
